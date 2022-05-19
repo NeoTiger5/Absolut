@@ -1,0 +1,194 @@
+.header{
+    background-color: #001b71;
+    width: 1263px;
+    height: 47px;
+    display: flex;
+    position: fixed;
+}
+body{
+    margin:0%;
+}
+.navlogo{
+    margin-left: 45px;
+    margin-top:10px
+    
+}
+.navbar{
+    display: flex;
+    height: auto;
+    width: 100%;
+    padding-left:233px;
+}
+.heading{
+    padding-top: 5px;
+    padding-right: 12px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-size: 17.5px;
+    font-weight: 700;
+    font-family:Absolut,Arial,sans-serif;
+    letter-spacing: 0.2;
+    color: #ffff;
+
+
+}
+.heading:hover{
+    cursor: pointer;
+    text-decoration-line: underline;
+}
+.featured h1{
+    color: #0033a0;
+    font-size: 20px;
+    margin-left: 40%;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    font-weight: 900 px;
+}
+.bottles{
+    margin-left: 2%;
+    padding-left: 4%;
+
+}
+.names{
+    color: #0033a0;
+    display: flex;
+    
+}
+.names h1{
+   
+    margin-left: 145px;
+    margin-right: 50px;
+    font-size: 100%;
+    padding: 10;
+
+    
+}
+.trending h1{
+    color: #0033a0;
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: .02em;
+    font-weight: 600;
+    margin-top: 50px;
+    text-align: center;
+}
+.footerrow{
+    /* background-color: #4b72c6; */
+    width: 100%;
+    height: 224px;
+    display: flex;
+}
+
+    
+
+.footrow{
+    background-color:  #02339f;
+    height: 224px;
+   
+}
+.row1{
+    padding-top: 22px;
+    margin-left: 45px;
+    /* background-color: #0033a0; */
+    height: 51px;
+    width: 1170px;
+    display: flex;  
+}
+.words{
+    margin-left: 166px;
+    padding-top: 15px;
+    font-size: large;
+    color: #ffff;
+    
+    font-family: Absolut,Arial,sans-serif;
+}
+.footwrite{
+    padding-left: 24px;
+    letter-spacing:0.3mm;
+    
+    
+}
+.logo1{
+    padding-top: 14px;
+}
+.social{
+    padding-left: 80px;
+    color: aliceblue; 
+   
+      
+}
+.sicons i{
+    padding-left: 5px;
+    align-items: center;
+    gap: 20px;
+    
+    
+}
+.row2{
+    border-top:4px solid red;
+    margin-top: 17px;
+    margin-left: 46px;
+    /* background-color: #0033a0; */
+    height: 27px;
+    width: 1170px;
+    display: flex;  
+}
+.row3{
+    
+  margin-top: 54px;
+    background-color: #001b71;
+    height: 56px;
+    width: auto;
+    display: flex; 
+
+}
+.lang{
+    font-family: Absolut,Arial,sans-serif;
+    color: #ffff;
+    font-size: 11.9px;
+    padding-top: 9px;
+
+}
+.lang i{
+    padding-left: 7px;
+}
+.empty{
+    color: aqua;
+    width: px;
+    height: auto;
+    
+}
+.terms{
+  
+    padding-left: 22px;
+    align-self: center;
+}
+.termwords{
+    color: #ffff;
+    font-size: 11px;
+    padding-top: px;
+    padding-left: 32px;
+    font-family: Absolut,Arial,sans-serif;
+}
+.rights{
+    color: #ffff;
+    font-size: 10px;
+    padding-top: 8px;
+    padding-left: 48.8px;
+    font-family: Absolut,Arial,sans-serif;
+    letter-spacing: 0.10em;
+    
+}
+.row3{
+    
+    align-items: center;
+   padding-left: 350px;
+    color: aliceblue;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+    
+
+
+
